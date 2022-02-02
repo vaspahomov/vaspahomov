@@ -14,4 +14,4 @@ Here are some ideas to get you started:
   * [tg](https://t.me/vaspahomov)
   * [mail](mailto:vas2142553@gmail.com)
   * [linkedin](https://www.linkedin.com/in/vaspahomov/)
-- 🔭 I’m currently working on cloud resource management with k8s
+- 🔭 I’m currently working on multi-cloud infrastructure management with k8s
